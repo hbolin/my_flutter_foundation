@@ -9,7 +9,7 @@ dependencies:
   flutter_rapid_development_kit:
     git:
       url: "https://github.com/hbolin/flutter_rapid_development_kit"
-      ref: "3.0.0"
+      ref: "3.0.1"
 ```
 
 ### my_getx_template
