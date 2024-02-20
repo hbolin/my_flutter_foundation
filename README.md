@@ -28,3 +28,15 @@ dependencies:
       url: "https://github.com/hbolin/my_dio_http_cache-0.3.0"
       ref: "0.3.0"
 ```
+
+### my_fingerprintjs-2.0.0
+
+[my_fingerprintjs-2.0.0](https://github.com/hbolin/my_fingerprintjs-2.0.0/releases/tag/2.0.0)参考fluttertoast源码，把js文件变成使用时在进行导入。
+
+```yaml
+dependencies:
+  fingerprintjs:
+    git:
+      url: "https://github.com/hbolin/my_fingerprintjs-2.0.0"
+      ref: "2.0.0"
+```
