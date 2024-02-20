@@ -38,5 +38,5 @@ dependencies:
   fingerprintjs:
     git:
       url: "https://github.com/hbolin/my_fingerprintjs-2.0.0"
-      ref: "2.0.0"
+      ref: "2.0.1"
 ```
