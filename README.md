@@ -40,3 +40,14 @@ dependencies:
       url: "https://github.com/hbolin/my_fingerprintjs-2.0.0"
       ref: "2.0.1"
 ```
+
+### platform_device_id
+
+[platform_device_id](https://github.com/hbolin/platform_device_id-1.0.1)解决编译问题，功能不变
+
+```yaml
+  platform_device_id:
+    git:
+      url: "https://github.com/hbolin/platform_device_id-1.0.1"
+      ref: "main"
+```
