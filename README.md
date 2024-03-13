@@ -51,3 +51,11 @@ dependencies:
       url: "https://github.com/hbolin/platform_device_id-1.0.1"
       ref: "main"
 ```
+
+### 升级弹窗
+```yaml
+  flutter_upgrade_dialog:
+    git:
+      url: "https://github.com/hbolin/flutter_upgrade_dialog"
+      ref: "main"
+```
